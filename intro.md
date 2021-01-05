@@ -35,7 +35,7 @@ title: Pentaho CE 소개 및 설치 과정 안내
 <br/>
 
 ### End to End & All in One 데이터 처리 솔루션
-#### GUI를 통해 구현되는 End to End 데이터 처리를 Pentaho 솔루션 하나로 해결할 수 있습니다.
+#### GUI를 통해 구현되는 End to End 데이터 처리를 Pentaho 솔루션 하나로 해결합니다.
 
 ![intro3](/assets/img/intro3.png)
 
