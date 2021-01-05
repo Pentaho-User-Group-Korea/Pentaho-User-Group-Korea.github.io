@@ -1,7 +1,7 @@
 ---
 layout: page
 title: ""
-subtitle: 펜타호 한국 사용자 공식 그룹
+subtitle: ""
 cover-img: /assets/img/banner.png
 ---
 
