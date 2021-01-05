@@ -5,19 +5,19 @@ linkpages:
     linkpage:
       - name: "PUGK 공식 Youtube"
         role: "개발환경 설정부터 실습 예제까지"
-        image: assets/img/team/1.png
+        image: assets/img/contact/1.png
         social:
           - url: https://www.youtube.com/channel/UC2CCUgWfmqLTQ_SFmelJRew
             icon: fab fa-youtube
       - name: "PUGK 공식 Facebook"
         role: "다른 사용자들과 만나보세요"
-        image: assets/img/team/2.png
+        image: assets/img/contact/2.png
         social:
           - url: https://www.facebook.com/groups/935447350325352
             icon: fab fa-facebook-f
       - name: "PUGK 공식 Github"
         role: "소스 및 자료 공유"
-        image: assets/img/team/3.png
+        image: assets/img/contact/3.png
         social:
           - url: https://github.com/Pentaho-User-Group-Korea/Pentaho-User-Group-Korea.github.io
-            icon: fab fa-github
+            icon: fab fa-github fa-stack-1x fa-inverse
