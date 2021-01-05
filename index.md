@@ -22,3 +22,33 @@ Join the group to discover more about the Pentaho platform, and also to discuss 
 Email: ggnet2@ourcoms.kr
 Tel : 01051109819
 ```
+
+<section class="bg-light page-section" id="linkpage">
+<div class="container">
+  <div class="row">
+  {% for person in site.data.contact.people %}
+	<div class="col-sm-4">
+	  <div class="team-member">
+		<img class="mx-auto rounded-circle" src="{{ person.image }}" alt="">
+		<h4>{{ person.name }}</h4>
+		<p class="text-muted">{{ person.role }}</p>
+		<ul class="list-inline social-buttons">
+		{% for network in person.social %}
+		  <li class="list-inline-item">
+			<a href="{{ network.url }}">
+			  <i class="{{ network.icon }}"></i>
+			</a>
+		  </li>
+		{% endfor %}
+		</ul>
+	  </div>
+	</div>
+  {% endfor %}
+  </div>
+  <div class="row">
+	<div class="col-lg-8 mx-auto text-center">
+	  <div class="large text-muted">{{ site.data.contact.people }}</div>
+	</div>
+  </div>
+</div>
+</section>
