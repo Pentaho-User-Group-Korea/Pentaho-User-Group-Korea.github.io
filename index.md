@@ -39,8 +39,7 @@ Join the group to discover more about the Pentaho platform, and also to discuss 
 	</div>
   {% endfor %}
   </div>
-</div>
-<div class="container">	
+  <div class="row"></div>	
   <div class="row">
 	<div class="col-lg-8 mx-auto text-center">
 	  <div class="large text-muted">{{ site.data.contact.linkpages.subtext }}</div>
