@@ -922,4 +922,5 @@ pre {
 
 #linkpages a {
   color: {{ site.contact-link-col | default: "#404040" }};
+  font-size:25px;
 }
