@@ -916,3 +916,9 @@ pre {
   font-style: italic;
   font-size: 1rem;
 }
+
+/* Contact link page */
+
+linkpages a {
+  color: {{ site.contact-link-col | default: "#404040" }};
+}
