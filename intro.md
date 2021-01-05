@@ -47,3 +47,8 @@ title: Pentaho CE 소개 및 설치 과정 안내
 
 <br/>
 <br/>
+
+### Pentaho CE 설치 매뉴얼
+#### 9.1버전 기준이며 해당 유투브 재생목록 영상들의 내용을 순서대로 따라하시면 됩니다.
+
+[펜타호 공식 유투브 - CE 설치 과정 영상](https://www.youtube.com/watch?v=d4zFL3A1owc&list=PLzZFnlM-XbkQEdNbzUYNSFjVVUAwzoU5A).
