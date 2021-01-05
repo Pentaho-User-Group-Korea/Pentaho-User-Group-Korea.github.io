@@ -41,6 +41,7 @@ Join the group to discover more about the Pentaho platform, and also to discuss 
   </div>
   <div class="row">
 	<div class="col-lg-8 mx-auto text-center">
+	  <br/>
 	  <div class="large text-muted">{{ site.data.contact.linkpages.subtext | markdownify }}</div>
 	</div>
   </div>
