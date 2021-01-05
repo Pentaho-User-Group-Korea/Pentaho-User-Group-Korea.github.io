@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Pentaho-user-group-korea
+title: ""
 subtitle: 펜타호 한국 사용자 공식 그룹
 cover-img: /assets/img/banner.png
 ---
