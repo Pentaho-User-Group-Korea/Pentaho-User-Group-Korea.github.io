@@ -34,6 +34,7 @@ round-avatar: true
 # If you don't want to show a link to an RSS feed, set rss to "false".
 social-network-links:
 # email: "shsonkorea@etri.re.kr"
+  youtube: https://www.youtube.com/channel/UC2CCUgWfmqLTQ_SFmelJRew
   facebook: https://www.facebook.com/groups/935447350325352
   github: https://github.com/Pentaho-User-Group-Korea/Pentaho-User-Group-Korea.github.io
 # linkedin: seokho-son
@@ -44,7 +45,6 @@ social-network-links:
 #  stackoverflow: "3943160/daattali"
 #  snapchat: deanat78
 #  instagram: deanat78
-  youtube: https://www.youtube.com/channel/UC2CCUgWfmqLTQ_SFmelJRew
 #  spotify: yourname
 #  telephone: +14159998888
 #  steam: deanat78
