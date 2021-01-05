@@ -23,17 +23,24 @@ Email: ggnet2@ourcoms.kr
 Tel : 01051109819
 ```
 
-<section class="bg-light page-section" id="linkpage">
+<!-- Team -->
+<section class="bg-light page-section" id="linkpages">
 <div class="container">
   <div class="row">
-  {% for person in site.data.contact.people %}
+	<div class="col-lg-12 text-center">
+	  <h2 class="section-heading text-uppercase">{{ site.data.contact.linkpages.title }}</h2>
+	  <h3 class="section-subheading text-muted">{{ site.data.contact.linkpages.text }}</h3>
+	</div>
+  </div>
+  <div class="row">
+  {% for linkpage in site.data.contact.linkpages.linkpage %}
 	<div class="col-sm-4">
 	  <div class="team-member">
-		<img class="mx-auto rounded-circle" src="{{ person.image }}" alt="">
-		<h4>{{ person.name }}</h4>
-		<p class="text-muted">{{ person.role }}</p>
+		<img class="mx-auto rounded-circle" src="{{ linkpage.image }}" alt="">
+		<h4>{{ linkpage.name }}</h4>
+		<p class="text-muted">{{ linkpage.role }}</p>
 		<ul class="list-inline social-buttons">
-		{% for network in person.social %}
+		{% for network in linkpage.social %}
 		  <li class="list-inline-item">
 			<a href="{{ network.url }}">
 			  <i class="{{ network.icon }}"></i>
@@ -47,8 +54,9 @@ Tel : 01051109819
   </div>
   <div class="row">
 	<div class="col-lg-8 mx-auto text-center">
-	  <div class="large text-muted">{{ site.data.contact.people }}</div>
+	  <div class="large text-muted">{{ site.data.contact.linkpages.subtext | markdownify }}</div>
 	</div>
   </div>
 </div>
 </section>
+<!-- End Team -->
