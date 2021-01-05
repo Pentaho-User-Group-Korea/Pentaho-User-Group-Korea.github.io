@@ -390,6 +390,7 @@ footer p.text-muted {
 
 footer a {
   color: {{ site.footer-link-col | default: "#404040" }};
+  font-size:25px;
 }
 
 footer .list-inline {
