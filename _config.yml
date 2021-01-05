@@ -14,8 +14,10 @@ author: Pentaho-User-Community-Korea
 navbar-links:
   Pentaho CE 소개 및 설치 : "intro"
   커뮤니티 소식: "blog"
-  Publication: "publication"
-  Project: "project"
+  Pentaho 분석 사례: "project"
+  Facebook: "https://www.facebook.com/groups/935447350325352"
+  Github: "https://github.com/Pentaho-User-Group-Korea/Pentaho-User-Group-Korea.github.io"
+  Youtube: "https://www.youtube.com/channel/UC2CCUgWfmqLTQ_SFmelJRew"
 
 # [수정필요] 아바타 로고 사용 시에는 이미지 파일을 지정 (이미지 파일 업로드 후, 위치 지정)
 avatar: "/assets/img/banner.png"
@@ -34,9 +36,9 @@ round-avatar: true
 # If you don't want to show a link to an RSS feed, set rss to "false".
 social-network-links:
 # email: "shsonkorea@etri.re.kr"
-  youtube: https://www.youtube.com/channel/UC2CCUgWfmqLTQ_SFmelJRew
-  facebook: https://www.facebook.com/groups/935447350325352
-  github: https://github.com/Pentaho-User-Group-Korea/Pentaho-User-Group-Korea.github.io
+  youtube: channel/UC2CCUgWfmqLTQ_SFmelJRew
+  facebook: groups/935447350325352
+  github: Pentaho-User-Group-Korea/Pentaho-User-Group-Korea.github.io
 # linkedin: seokho-son
 #  twitter: daattali
 #  rss: true
