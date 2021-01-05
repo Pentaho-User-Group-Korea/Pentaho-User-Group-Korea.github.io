@@ -18,20 +18,9 @@ Join the group to discover more about the Pentaho platform, and also to discuss 
 
 ## Contact
 
-```
-Email: ggnet2@ourcoms.kr
-Tel : 01051109819
-```
-
 <!-- Team -->
 <section class="bg-light page-section" id="linkpages">
 <div class="container">
-  <div class="row">
-	<div class="col-lg-12 text-center">
-	  <h2 class="section-heading text-uppercase">{{ site.data.contact.linkpages.title }}</h2>
-	  <h3 class="section-subheading text-muted">{{ site.data.contact.linkpages.text }}</h3>
-	</div>
-  </div>
   <div class="row">
   {% for linkpage in site.data.contact.linkpages.linkpage %}
 	<div class="col-sm-4">
