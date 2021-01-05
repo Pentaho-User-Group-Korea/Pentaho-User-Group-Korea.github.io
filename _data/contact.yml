@@ -16,7 +16,7 @@ linkpages:
           - url: https://www.facebook.com/groups/935447350325352
             icon: fab fa-facebook fa-stack-2x
       - name: "PUGK 공식 Github"
-        role: "소스 및 자료 공유"
+        role: "개발 소스 및 자료 공유"
         image: assets/img/contact/3.png
         social:
           - url: https://github.com/Pentaho-User-Group-Korea/Pentaho-User-Group-Korea.github.io
