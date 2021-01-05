@@ -1,13 +1,13 @@
 # --- Basic options --- #
 
 # [수정필요] 웹페이지 이름
-title: PhD. Seokho Son
+title: Pentaho-User-Group-Korea
 
 # [수정필요] 간단한 사이트 설명
-description: Acedemic Website of Seokho Son
+description: 한국에서 펜타호 CE를 사용하는 사용자들의 그룹입니다.
 
 # [수정필요] 웹페이지 아래에 나오는 웹사이트 저자 이름
-author: Seokho Son
+author: Kwon yong Hwan John Bosco
 
 # [조건부수정] 네비게이션 바에 포함되는 항목 (명칭 수정, 추가, 삭제 가능)
 # 예를 들어 ETRI 라는 항목을 네비게이션 바에 추가하고 싶은 경우, etri.md 파일 생성 후 ETRI: "etri" 라고 지정.
@@ -16,8 +16,8 @@ navbar-links:
   Publication: "publication"
   Blog: "blog"
   Project: "project"
-  GitHub: "https://github.com/seokho-son"
-  Google Scholar: "https://scholar.google.com/citations?user=seokhoson"
+  GitHub: "https://github.com/Pentaho-User-Group-Korea/Pentaho-User-Group-Korea.github.io"
+  Google Scholar: ""
 
 
 # [수정필요] 아바타 로고 사용 시에는 이미지 파일을 지정 (이미지 파일 업로드 후, 위치 지정)
@@ -38,8 +38,8 @@ round-avatar: true
 social-network-links:
   email: "shsonkorea@etri.re.kr"
   facebook: seokho.son.korea
-  github: seokho-son
-  linkedin: seokho-son
+  github: https://github.com/Pentaho-User-Group-Korea/Pentaho-User-Group-Korea.github.io
+# linkedin: seokho-son
 #  twitter: daattali
 #  rss: true
 #  reddit: yourname
@@ -63,7 +63,7 @@ social-network-links:
 share-links-active:
 #  twitter: true
   facebook: true
-  linkedin: true
+# linkedin: true
 #  vk: false
 
 # How to display the link to your website in the footer
