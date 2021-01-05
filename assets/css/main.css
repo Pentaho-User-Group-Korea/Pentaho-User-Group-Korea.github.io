@@ -919,6 +919,6 @@ pre {
 
 /* Contact link page */
 
-linkpages a {
+#linkpages a {
   color: {{ site.contact-link-col | default: "#404040" }};
 }
