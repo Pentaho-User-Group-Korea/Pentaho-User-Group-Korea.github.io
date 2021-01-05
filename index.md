@@ -14,6 +14,8 @@ Pentaho 한국 사용자 커뮤니티는 빅 데이터, IoT, 인공지능과 Pen
 The Pentaho User Group Korea is a networking group for those interested in big data, IoT, AI and all things Pentaho related.
 Join the group to discover more about the Pentaho platform, and also to discuss and learn about related technologies.
 
+<br/>
+
 ## Contact
 
 <!-- Team -->
