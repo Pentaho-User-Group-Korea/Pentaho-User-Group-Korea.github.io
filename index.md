@@ -28,11 +28,9 @@ Join the group to discover more about the Pentaho platform, and also to discuss 
 		<p class="text-muted">{{ linkpage.role }}</p>
 		<ul class="list-inline social-buttons">
 		{% for network in linkpage.social %}
-		  <li class="list-inline-item">
 			<a href="{{ network.url }}">
 			  <i class="{{ network.icon }}"></i>
 			</a>
-		  </li>
 		{% endfor %}
 		</ul>
 	  </div>
