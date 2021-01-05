@@ -1,116 +1,41 @@
 ---
 layout: page
-title: Research Career
+title: Pentaho CE 소개 및 설치 과정 안내
 ---
 
 <br/>
 
 
-# Research Experience
+# Pentaho Community Edition 소개
 
-### Electronics and Telecommunications Research Institute
-#### Senior Researcher, 2014 to Present
+### 자바 기반 오픈소스 데이터 처리 솔루션
+#### 유지보수 비용 절감 효과를 기대할 수 있습니다.
 
-* Project (ongoing): _**Multi-cloud service common framework**_
-  * Role: design and development of multi-cloud platform, open-source based project management, standardization activity
-* Project: _**Heterogeneous multi-cloud service brokerage platform**_
-  * Role: design and development of a cloud service brokerage platform, analysis of open-source projects, operation of openstack cloud testbeds, standardization activity
-* Project: _**Big data-based IT system operation and analysis framework**_
-  * Role: design of a system for a big-data analytics-driven resource management in virtual EPC (NFV-based LTE core network)
+![intro1](/assets/img/intro1.png)
 
-### TestMidas, Inc.
-#### Senior Researcher,	2013 to 2014
-
-* Project: _**An open source-based testing tool for Cloud OS validation**_
-  * Role: design and development of openstack validation tool, openstack-based cloud API testing.
-
-### Gwangju Institute of Science and Technology (GIST)
-#### Ph.D. Student, 2009 to 2012
-
-* Project: _**Relaxed-criteria concurrent SLA negotiations for bolstering dynamic provisioning of personalized Cloud resources**_
-  * Role: researches for bargaining-based cloud SLA establishment and cloud resource management
-
-### Gwangju Institute of Science and Technology (GIST)
-#### Master Student, 2006 to 2008
-
-* Project: _**Development of e-organ system based on cyber computing**_
-  * Role: development of a high resolution interactive brain visualization system (3D brain, MRI, and EIT images)
-* Project: _**Research on realistic digital broadcasting technology**_
-  * Role: development of a realistic broadcasting system
-* Project: _**Development of Immersive 3D networked virtual environment technology**_
-  * Role: development of a delay compensation mechanism to mitigate network delay problems in 3D network virtual environment with haptic devices
-
-<br/>
-
-# Professional Activity
-
-### Open Source Project Contribution
-
-* Kubernetes project contents owner
-  * Official member of Kubernetes organization (Github)
-  * Contributor of [Kubernetes/website](https://github.com/kubernetes/website) (approver/reviewer/contributor)
-  * Contributor of [Kubernetes/dashboard](https://github.com/kubernetes/dashboard) (approver/reviewer/contributor)
-* Cloud-Barista project owner
-  * Technical leader for [Cloud-Barista/CB-Tumblebug](https://github.com/cloud-barista/cb-tumblebug)
-  * Owner of [Cloud-Barista/CB-Tumblebug](https://github.com/cloud-barista/cb-tumblebug) project (approver/reviewer/contributor)
-  * Owner of [Cloud-Barista/CB-Operator](https://github.com/cloud-barista/cb-operator) (approver/reviewer/contributor)
-* Github Profile: [https://github.com/seokho-son](https://github.com/seokho-son)
-
-### Reviewer for Reputed Journals
-
-* ACM Computing Surveys (ACM)
-* IEEE Transactions on Cloud Computing (IEEE)
-* IEEE Transactions on Service Computing (IEEE)
-* Journal of Supercomputing (Springer)
-* Information Systems Frontier (Springer)
-* International Journal of Cloud Computing (Inderscience)
-* ETRI Journal (Wiley)
-
-### International Standardization
-
-* ITU-T SG13 : main contributor of Y.csb-reqts (recommendation for cloud service brokerage requirements)
-  * Activities to obtain editorship of Y.csb-reqts document (Geneva, June 2016)
-  * 19 proposals (contributions) have been accepted for Y.csb-reqts
-* ITU-T SG13 : main contributor of Y.mc-reqts (recommendation for multi-cloud requirements)
-  * Activities to obtain editorship of Y.mc-reqts document (Geneva, June 2019)
-  * 3 proposals (contributions) have been accepted for Y.mc-reqts
-* Committee of [Korea ITU Committee](https://www.koreaitu.or.kr/)
-
-### Conference Committee
-
-* Paper Session Chair: The 2012 International Conference on Parallel and Distributed Processing Techniques and Applications (PDPTA'12), Cloud Computing Session
-* Conference Committee: Mexico Satellite Session of IEEE BigData (Mexico City, May 8, 2014)
-
-### Invited Talk
-
-* Invited Talk regarding **_Introduction to Container-based Computing Platform (feat. Kubernetes)_**, 2020
-* Invited Talk regarding [**_Getting Involved in Kubernetes SIG Docs and Korean Localization_**](https://k8sforumseoul19eng.sched.com/event/WIRH/getting-involved-in-kubernetes-sig-docs-and-korean-localization-seokho-son-electronics-and-telecommunications-research-institute-etri-ian-choi-microsoft), Kubernetes Forum Seoul (LinuxFoundataion), 2019
-* Invited Talk regarding **_Cloud Computing with IoT_**, Handong-Univ., 2017
-* Invited Talk regarding **_Cloud Service Brokerage Systems_**, in the Education and Training for CSP experts sponsored by Consortium of Cloud Computing Research , 2016
-* Invited Talk regarding **_HPC over Cloud_**, in Korea Supercomputing Conference 2015, 2015
-* Invited Talk regarding **_HPC Cloud_**, in SCENT HPC Summer School at GIST, 2015
-* Invited Technical Committee for **_Cloud computing and Big data_**, National Computing & Information Agency (Government data center of Korea), 2012
-  * invited expert and lecturer of the SMART Cloud group in NCIA which is a national institute to operate information systems of Korea government. Made several lectures during a year regarding Cloud computing and big data to 30 public officials including senior civil servants.
-* Invited Expert for **_Cloud computing and parallel computing systems_**, Mokwon University in Korea, 2012-2013
-  * assisted a research team in Mokwon University to help the team construct a distributed computing system to process massive data from a large antenna.
+* 보편적으로 많이 사용되는 자바 기반으로 실행되기 때문에 유지보수 인력 수급이 용이합니다.  
+  * 한국에서 보편적으로 사용되는 프로그래밍 언어이므로 관련 자료 및 소스를 구하기도 쉽습니다.  
+* 오픈 소스 솔루션이기에 별도의 요금을 지불하지 않아도 사용이 가능합니다. (EE버전 제외)  
+  * 각종 오픈 소스 라이브러리를 자유롭게 접목시킬 수 있고, 소스의 수정도 자유롭습니다. (다만 오픈소스 관련 라이센스 사항은 엄수해야 함)
 
 
-<br/>
+### 로우 코드 데이터 처리 솔루션
+#### 프로그래밍 교육에 많은 비용을 할애하지 않고도 데이터 분석이 가능합니다.
 
-# Honor and Award
+![intro2](/assets/img/intro2.png)
 
-* Award from Startup Idea Contest 2020 of ETRI
-* Best Paper Presentation Award from Korea Information Science Society	2014
-  * Best paper presentation in Korea Computer Congress 2014
-* Best Paper Presentation Award from Korea Information Science Society	2012
-  * Best paper presentation in Korea Computer Congress 2012
-* Amazon Web Services (AWS) in Education Research Grant	2012
-  * A research proposal has been accepted from Amazon Web Services, Inc
-* National Scholarship for PhD from Korea government	2009–2013
-  * Full financial support from Korea government as a PhD student in GIST  
-* National Scholarship for MS from Korea government	2006–2008
-  * Full financial support from Korea government as a MS student in GIST  
-* Brain Korea 21 (BK21) Scholarship (3 times)	2003–2005
-  * Scholarship from BK21 organized by Ministry of Education and Human Resources Development of South Korea.
-* Pukyong National University Scholarship for Top Student (2 times)	2005–2006
-  * A financial support that fully covers a BS semester, given to a student who achieved the highest GPA in a semester.
+* 프로그래밍 언어를 심화적으로 학습하지 않아도 데이터 분석 & 처리를 할 수 있습니다.  
+* 약간의 프로그래밍 학습만으로도 심화 단계의 데이터 분석 작업을 수행할 수 있게 됩니다.  
+* 자바스크립트 및 자바 코드를 데이터 처리 Flow 중간에 활용할 수 있습니다.
+
+
+### End to End & All in One 데이터 처리 솔루션
+#### GUI를 통해 구현되는 End to End 데이터 처리를 Pentaho 솔루션 하나로 해결할 수 있습니다.
+
+![intro3](/assets/img/intro3.png)
+
+* GUI를 통한 데이터 처리
+  * GUI 인터페이스를 제공하기 때문에 전문 데이터 분석 툴이 익숙하지 않아도 쉽게 익힐 수 있습니다. 데이터 처리 과정 및 결과를 시각화하여 업무 및 현황 파악에 걸리는 시간과 비용이 절감됩니다. 
+* 데이터 수집 부터 분석 결과 저장까지, 모든 작업을 한 가지 Tool로
+  * 기존 데이터 분석 프로세스는 각 단계별로 제각기 다른 Tool을 사용하였기에 데이터 취합 및 처리 시간 및 비용이 많이 발생했습니다.
+  * Pentaho는 모든 과정을 한 가지 Tool로 수행할 수 있는 'All in One Tool'이기 때문에 이러한 비용들을 절감하여 데이터 분석 프로세스의 효율성을 제고합니다.
