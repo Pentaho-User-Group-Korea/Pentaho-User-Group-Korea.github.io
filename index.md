@@ -1,7 +1,5 @@
 ---
 layout: page
-title: ""
-subtitle: ""
 cover-img: /assets/img/banner.png
 ---
 
