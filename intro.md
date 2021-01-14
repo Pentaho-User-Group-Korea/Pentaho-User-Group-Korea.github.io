@@ -51,4 +51,4 @@ title: Pentaho CE 소개 및 설치 과정 안내
 ### Pentaho CE 설치 매뉴얼
 #### 9.1버전 기준이며 해당 유투브 재생목록 영상들의 내용을 순서대로 따라하시면 됩니다.
 
-<iframe width="770" height="432" src="https://www.youtube.com/embed/watch?v=d4zFL3A1owc&list=PLzZFnlM-XbkQEdNbzUYNSFjVVUAwzoU5A" frameborder="0" allowfullscreen></iframe>
+<iframe width="70%" height="432" src="https://www.youtube.com/embed/watch?v=d4zFL3A1owc&list=PLzZFnlM-XbkQEdNbzUYNSFjVVUAwzoU5A" frameborder="0" allowfullscreen></iframe>
