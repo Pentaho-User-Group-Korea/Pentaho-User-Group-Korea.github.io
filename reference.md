@@ -3,11 +3,6 @@ layout: page
 title: 커뮤니티 자료
 ---
 
-<br/>
-
-
-# 커뮤니티 자료
-
 ### Pentaho Data Intergration 문서
 
 * Pentaho Data Intergration CE(ver. 9.0) 설치 문서
