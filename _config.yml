@@ -20,16 +20,6 @@ navbar-links:
   Github: "https://github.com/Pentaho-User-Group-Korea/Pentaho-User-Group-Korea.github.io"
   Youtube: "https://www.youtube.com/channel/UC2CCUgWfmqLTQ_SFmelJRew"
 
-# [수정필요] 아바타 로고 사용 시에는 이미지 파일을 지정 (이미지 파일 업로드 후, 위치 지정)
-avatar: "/assets/img/banner.png"
-# 원형 아바타 이미지 여부 `true` 또는 `false`
-round-avatar: true
-
-# title text 대신 이미지 사용하고 싶은 경우 설정
-# then specify the following parameter
-#title-img: "/assets/img/seokho-square.jpg"
-
-
 # --- Footer options --- #
 # [수정필요] 웹페이지 하단에 나올 정보를 수정 (다른 사이트 및 커뮤니티에 대한 링크 정보임. 필요 없는 경우 주석 처리)
 # Select the social network links that you want to show in the footer.
