@@ -7,14 +7,12 @@ title: 커뮤니티 자료
 
 * Pentaho Data Intergration CE(ver. 9.0) 설치 문서
   * [Windows](https://www.hitachivantara.com/en-us/pdf/white-paper/pentaho-community-edition-installation-guide-for-windows-whitepaper.pdf)
-  <br/>  
   
   * [Linux](https://www.hitachivantara.com/en-us/pdf/white-paper/pentaho-ce-installation-guide-on-linux-operating-system-whitepaper.pdf)  
 <br/>
 <br/>
 
 ### Pentaho Data Intergration 동영상
-
 * [Pentaho Data Intergration CE(ver. 9.1) 설치 동영상](https://www.youtube.com/watch?list=PLzZFnlM-XbkQEdNbzUYNSFjVVUAwzoU5A&v=d4zFL3A1owc&feature=emb_logo)
 <br/>
 <br/>
@@ -55,7 +53,7 @@ title: 커뮤니티 자료
   * 서울 열린 데이터 광장(지역경제) : <https://data.seoul.go.kr/>
   * 산림 빅데이터 거래소(산림) : <http://www.forestdata.kr>
  <br/>
-  * Pentaho Data Intergration관련 책
+* Pentaho Data Intergration관련 책
   * 추가 자료 수집 중
 
 <br/>
