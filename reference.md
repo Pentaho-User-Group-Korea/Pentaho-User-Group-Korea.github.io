@@ -6,7 +6,7 @@ title: 커뮤니티 자료
 ### Pentaho Data Intergration 문서
 
 * Pentaho Data Intergration CE(ver. 9.0) 설치 문서
-  * Windows
+  * [Windows](https://www.hitachivantara.com/en-us/pdf/white-paper/pentaho-community-edition-installation-guide-for-windows-whitepaper.pdf)
   <br/>
   <https://www.hitachivantara.com/en-us/pdf/white-paper/pentaho-community-edition-installation-guide-for-windows-whitepaper.pdf>
   * Linux
