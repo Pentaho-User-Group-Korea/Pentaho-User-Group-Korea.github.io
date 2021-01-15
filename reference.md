@@ -17,6 +17,7 @@ title: 커뮤니티 자료
 <br/>
 <br/>
 
+
 ### Pentaho Data Intergration 주요 링크
 
 * [Pentaho Community](https://community.hitachivantara.com/s/pentaho)
@@ -52,6 +53,7 @@ title: 커뮤니티 자료
   * 경기지역경제포털(지역경제) : <http://ggdata.kr>
   * 서울 열린 데이터 광장(지역경제) : <https://data.seoul.go.kr/>
   * 산림 빅데이터 거래소(산림) : <http://www.forestdata.kr>
+  
  <br/>
  
  * Pentaho Data Intergration관련 책
