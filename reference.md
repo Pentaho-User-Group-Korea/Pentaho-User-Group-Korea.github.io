@@ -54,9 +54,8 @@ title: 커뮤니티 자료
   * 서울 열린 데이터 광장(지역경제) : <https://data.seoul.go.kr/>
   * 산림 빅데이터 거래소(산림) : <http://www.forestdata.kr>
   <br/> 
-  <br/> 
- * Pentaho Data Intergration관련 책
-  * 추가 자료 수집 중
-  
+  <br/>
+* Pentaho Data Intergration관련 책
+  * 추가 자료 수집 중  
 <br/>
 <br/>
