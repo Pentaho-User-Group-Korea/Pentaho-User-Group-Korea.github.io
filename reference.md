@@ -39,8 +39,8 @@ title: 커뮤니티 자료
 ### 사용자를 위한 자료
 
 * 데이터 플랫폼 및 플랫폼 주소
-  * [데이터스토어(전분야)](https://www.datastore.or.kr/)  
-  * [AI 허브(AI)](http://www.aihub.or.kr) 
+  * 데이터스토어(전분야) : <https://www.datastore.or.kr/>  
+  * AI 허브(AI) : <http://www.aihub.or.kr> 
   * 금융빅데이터 개방시스템(금융) : <https://credb.kcredit.or.kr>
   * 금융빅데이터(금융) : <https://www.fnbigdata.com>
   * 보건의료 빅데이터 개방시스템(보건/의료) : <https://opendata.hira.or.kr>
