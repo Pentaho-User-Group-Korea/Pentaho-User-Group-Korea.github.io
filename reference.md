@@ -30,9 +30,9 @@ title: 커뮤니티 자료
 
 ### Pentaho Data Intergration CE License
 
-* GNU Library or Lesser General Public License version 2.0 (LGPLv2)
-* GNU General Public License version 2.0 (GPLv2)
-* Mozilla Public License 1.1 (MPL 1.1)
+* [GNU Library or Lesser General Public License version 2.0 (LGPLv2)](https://olis.or.kr/license/Detailselect.do?lId=1005)
+* [GNU General Public License version 2.0 (GPLv2)](https://www.olis.or.kr/license/Detailselect.do?lId=1004)
+* [Mozilla Public License 1.1 (MPL 1.1)](https://olis.or.kr/license/Detailselect.do?lId=1007)
 <br/>
 <br/>
 
