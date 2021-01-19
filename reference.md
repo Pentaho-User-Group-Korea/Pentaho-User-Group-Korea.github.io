@@ -13,7 +13,7 @@ title: 커뮤니티 자료
 <br/>
 
 ### Pentaho Data Intergration 동영상
-* [Pentaho Data Intergration CE(ver. 9.1) 설치 동영상](https://www.youtube.com/watch?v=ObM4K691Erk&list=PLzZFnlM-XbkQEdNbzUYNSFjVVUAwzoU5A)
+* [Pentaho Data Intergration CE(ver. 9.1) 설치 동영상](https://www.youtube.com/watch?v=ObM4K691Erk&t=60s)
 <br/>
 <br/>
 
