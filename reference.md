@@ -38,6 +38,7 @@ title: 커뮤니티 자료
 ### 사용자를 위한 자료
 
 * 데이터 플랫폼 및 플랫폼 주소
+
   * 데이터스토어(전분야) : <https://www.datastore.or.kr/>  
   * AI 허브(AI) : <http://www.aihub.or.kr> 
   * 금융빅데이터 개방시스템(금융) : <https://credb.kcredit.or.kr>
@@ -62,10 +63,10 @@ title: 커뮤니티 자료
 <br/>
 
 * Pentaho관련 주요 Plugin 리스트
-
+ 
  * Ctools Suite : 가장 유명한 것은 CDE (plugin for dashboards creation), CDF (dashboard framework), CDA (for data connection), CCC (protovis charting library) 등 다양한
    Plugin 이 있는 Ctools(Community Tools). Pentaho Enterprise 버전에서만 제공
-
+ 
  * Saiku Plugin : Saiku는 내장 가능하고 확장 가능하며 구성 가능한 경량 OLAP를 제공하는 모듈식 오픈 소스 분석 제품군
  
  <br/>
