@@ -64,9 +64,9 @@ title: 커뮤니티 자료
 
 * Pentaho관련 주요 Plugin 리스트
  
-  * Ctools Suite : 가장 유명한 것은 CDE (plugin for dashboards creation), CDF (dashboard framework), CDA (for data connection), 
-                   CCC (protovis charting library) 등 다양한 Plugin 이 있는 Ctools(Community Tools). Pentaho Enterprise 버전에서만
-                   제공 
+  * Ctools Suite : 가장 유명한 CDE (plugin for dashboards creation), CDF (dashboard framework), CDA (for data connection), 
+                   CCC (protovis charting library) 등 다양한 Plugin 이 있는 Ctools(Community Tools). Pentaho Enterprise 
+                   버전에서만 제공 
   * Saiku Plugin : Saiku는 내장 가능하고 확장 가능하며 구성 가능한 경량 OLAP를 제공하는 모듈식 오픈 소스 분석 제품군
   * D3 Component : Pentaho 내부에서 D3 차트를 사용
   * Language packs : 다양한 언어 팩이 있다.
