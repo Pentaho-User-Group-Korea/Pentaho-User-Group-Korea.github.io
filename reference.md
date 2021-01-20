@@ -60,7 +60,9 @@ title: 커뮤니티 자료
   
 <br/>
 <br/>
+
 * Pentaho관련 주요 Plugin 리스트
+
  * Ctools Suite : 가장 유명한 것은 CDE (plugin for dashboards creation), CDF (dashboard framework), CDA (for data connection), CCC (protovis charting library) 등 다양한
    Plugin 이 있는 Ctools(Community Tools). Pentaho Enterprise 버전에서만 제공
 
