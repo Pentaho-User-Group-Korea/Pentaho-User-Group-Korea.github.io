@@ -80,7 +80,6 @@ title: 커뮤니티 자료
  <br/>  
  <br/>
 * [A Unified Data Infrastructure Architecture](https://7a9z42689xx35658r1hutm8n-wpengine.netdna-ssl.com/wp-content/uploads/2020/10/Data-Report-Martin-Inline-Graphics-R8-1.pdf)
-
  <br/>
  <br/>
  
