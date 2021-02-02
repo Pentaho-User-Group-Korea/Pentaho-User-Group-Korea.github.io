@@ -1,78 +1,15 @@
 ---
 layout: post
-title: Markdown Sample
-subtitle: Each post also has a subtitle
-gh-repo: seokho-son/seokho-son.github.io
-gh-badge: [star, fork, follow]
+title: 펜타호 한국 사용자 그룹 커뮤니티 개설
+subtitle: 깃헙 페이지, 유투브 그리고 페이스북으로 펜타호 관련 정보를 공유합니다.
 tags: [test, markdown]
 comments: true
 ---
 
-This is a demo post to show you how to write blog posts with markdown.  I strongly encourage you to [take 5 minutes to learn how to write in markdown](https://markdowntutorial.com/) - it'll teach you how to transform regular text into bold/italics/headings/tables/etc.
+펜타호 한국 사용자들의 커뮤니티를 개설했습니다.
 
-**Here is some bold text**
+깃헙페이지는 주로 펜타호 관련 기초 정보를 안내하고 펜타호 활용 Case 관련 자료를 공유하는 것을 주 목적으로 운영될 예정입니다.
+유투브를 통해서는 펜타호 설치부터 간단한 기능 활용, 더 나아가 펜타호를 통한 데이터 처리 Case ( 데이터 전처리 과정, 통계학적 분석과 인공지능 분석 등 )들을 보며 따라하실 수 있습니다.
+펜타호 한국 사용자 그룹 커뮤니티 Facebook은 펜타호 사용자 간의 의견 및 컨텐츠 공유의 장으로 활용할 것입니다.
 
-## Here is a secondary heading
-
-Here's a useless table:
-
-| Number | Next number | Previous number |
-| :------ |:--- | :--- |
-| Five | Six | Four |
-| Ten | Eleven | Nine |
-| Seven | Eight | Six |
-| Two | Three | One |
-
-
-How about a yummy crepe?
-
-![Crepe](https://s3-media3.fl.yelpcdn.com/bphoto/cQ1Yoa75m2yUFFbY2xwuqw/348s.jpg)
-
-It can also be centered!
-
-![Crepe](https://s3-media3.fl.yelpcdn.com/bphoto/cQ1Yoa75m2yUFFbY2xwuqw/348s.jpg){: .mx-auto.d-block :}
-
-Here's a code chunk:
-
-~~~
-var foo = function(x) {
-  return(x + 5);
-}
-foo(3)
-~~~
-
-And here is the same code with syntax highlighting:
-
-```javascript
-var foo = function(x) {
-  return(x + 5);
-}
-foo(3)
-```
-
-And here is the same code yet again but with line numbers:
-
-{% highlight javascript linenos %}
-var foo = function(x) {
-  return(x + 5);
-}
-foo(3)
-{% endhighlight %}
-
-## Boxes
-You can add notification, warning and error boxes like this:
-
-### Notification
-
-{: .box-note}
-**Note:** This is a notification box.
-
-### Warning
-
-{: .box-warning}
-**Warning:** This is a warning box.
-
-### Error
-
-{: .box-error}
-**Error:** This is an error box.
+앞으로도 많은 컨텐츠가 지속적으로 업로드될 예정이니 많은 관심 부탁드립니다.
