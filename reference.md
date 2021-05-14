@@ -28,6 +28,12 @@ title: 커뮤니티 자료
 
 * 유용한 문서 및 저장소
   * Pentaho Coding Standards : <https://github.com/pentaho/pentaho-coding-standards>
+  * Embed and extend PDI functionality : <https://help.pentaho.com/Documentation/8.3/Developer_center/Embed_and_extend_PDI_functionality>
+  * Pentaho Engineering Samples : <https://github.com/pentaho/pentaho-engineering-samples>
+  * Samples as part of the PDI SDK : <https://github.com/pentaho/pdi-sdk-plugins>
+  * For example, if you wanted to create a CE PDI step plugin, you would follow the instructions located in the README here: <https://github.com/pentaho/maven-project-archetypes/tree/master/pentaho-pdi-step-plugin-archetype>
+  * Hitachi Vantara Maven Archetypes :  <https://github.com/pentaho/maven-project-archetypes>
+     
    
 <br/>
 <br/>
