@@ -33,7 +33,16 @@ title: 커뮤니티 자료
   * Samples as part of the PDI SDK : <https://github.com/pentaho/pdi-sdk-plugins>
   * For example, if you wanted to create a CE PDI step plugin, you would follow the instructions located in the README here: <https://github.com/pentaho/maven-project-archetypes/tree/master/pentaho-pdi-step-plugin-archetype>
   * Hitachi Vantara Maven Archetypes :  <https://github.com/pentaho/maven-project-archetypes>
-     
+  
+* Pentaho Community 주요 기여 링크
+  * Main community web site for Pentaho, including Forums and Articles : <https://community.hitachivantara.com/s/pentaho>
+  * Pentaho Documentation (some can still be found in <https://wiki.pentaho.com>) : <https://help.pentaho.com>
+  * Where you search for and file defects, improvements, and feature requests : <https://jira.pentaho.com>
+  * Where the source code lives : <https://github.com/pentaho>
+  * Site that has compiled stable binaries : <https://sourceforge.net/projects/pentaho/>
+  * Artifact repository where things get resolved from : <https://nexus.pentaho.org>
+  * APIs, Customize Pentaho Products, Extending and Embedding (as of 8.3) : <https://help.pentaho.com/Documentation/8.3/Developer_center>
+  * Pentaho Marketplace Repository (see also <https://marketplace.hitachivantara.com/pentaho/> ) : <https://github.com/pentaho/marketplace-metadata>  
    
 <br/>
 <br/>
