@@ -34,7 +34,7 @@ title: 커뮤니티 자료
   * For example, if you wanted to create a CE PDI step plugin, you would follow the instructions located in the README here: <https://github.com/pentaho/maven-project-archetypes/tree/master/pentaho-pdi-step-plugin-archetype>
   * Hitachi Vantara Maven Archetypes :  <https://github.com/pentaho/maven-project-archetypes>
   
-* Pentaho Community 주요 기여 링크
+* Pentaho Community 주요 참조 링크
   * Main community web site for Pentaho, including Forums and Articles : <https://community.hitachivantara.com/s/pentaho>
   * Pentaho Documentation (some can still be found in <https://wiki.pentaho.com>) : <https://help.pentaho.com>
   * Where you search for and file defects, improvements, and feature requests : <https://jira.pentaho.com>
