@@ -43,7 +43,12 @@ title: 커뮤니티 자료
   * Artifact repository where things get resolved from : <https://nexus.pentaho.org>
   * APIs, Customize Pentaho Products, Extending and Embedding (as of 8.3) : <https://help.pentaho.com/Documentation/8.3/Developer_center>
   * Pentaho Marketplace Repository (see also <https://marketplace.hitachivantara.com/pentaho/> ) : <https://github.com/pentaho/marketplace-metadata>  
-   
+  
+* 유용한 정보
+  * Some Historic Cornerstones of Kettle & Pentaho : <http://kettle.bleuel.com/2015/02/14/some-historic-cornerstones-of-kettle-pentaho/> 
+  * ETL Metadata Injection : <https://help.pentaho.com/Documentation/7.0/0L0/0Y0/0K0/ETL_Metadata_Injection>
+  * Metadata Injection : <http://kettle.bleuel.com/2016/04/14/pentaho-6-1-part-2/>
+  * Metadata Injection – Examples for Special Scenarios : <http://kettle.bleuel.com/2017/02/16/metadata-injection-examples-for-special-scenarios/>
 <br/>
 <br/>
 
