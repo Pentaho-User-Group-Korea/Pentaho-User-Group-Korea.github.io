@@ -49,6 +49,8 @@ title: 커뮤니티 자료
   * ETL Metadata Injection : <https://help.pentaho.com/Documentation/7.0/0L0/0Y0/0K0/ETL_Metadata_Injection>
   * Metadata Injection : <http://kettle.bleuel.com/2016/04/14/pentaho-6-1-part-2/>
   * Metadata Injection – Examples for Special Scenarios : <http://kettle.bleuel.com/2017/02/16/metadata-injection-examples-for-special-scenarios/>
+  * Pentaho Community Edition (CE) or Pentaho Enterprise Edition (EE) : <https://www.hitachivantara.com/en-us/pdf/datasheet/what-pentaho-edition-is-right-for-you-datasheet.pdf>
+  
 <br/>
 <br/>
 
