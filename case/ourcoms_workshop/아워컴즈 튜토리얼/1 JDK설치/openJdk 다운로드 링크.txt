@@ -1,3 +1,0 @@
-https://github.com/ojdkbuild/ojdkbuild
-
-자세한 내용은 ourcoms_workshop 폴더 안에 있는 펜타호 사용법 워크샾 자료 1편.pptx를 참조하여 주십시요.
