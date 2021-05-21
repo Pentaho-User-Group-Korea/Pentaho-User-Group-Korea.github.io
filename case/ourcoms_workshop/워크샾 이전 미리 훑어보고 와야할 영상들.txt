@@ -1,0 +1,28 @@
+펜타호 소개
+https://www.youtube.com/watch?v=HPDYv3NBo7c
+
+펜타호가 데이터를 처리하는 기본 원리
+https://youtu.be/DPngFxv4OR0
+
+펜타호의 데이터 처리 모듈 및 작업 단위 설명
+https://www.youtube.com/watch?v=NBMsphZ8XMo
+
+설치가 끝난 후 처음 실행했을 때 나오는 화면에 대한 설명
+https://youtu.be/Bt7p-e-9gcU
+
+취합할 때 사용할 Step Append streams 관련
+https://youtu.be/PN123vhw9IE
+
+데이터를 나눌 때 사용할 Filter rows 관련 (영상 2개)
+https://youtu.be/323PKSKjaZY
+
+https://youtu.be/1NWcssMAuS8
+
+엑셀 파일의 데이터를 불러와 텍스트 파일로 저장하기
+https://youtu.be/3hMtkYMZ-Xc
+
+데이터를 엑셀 파일로 저장하기
+https://youtu.be/2_wxd5Nt0Rc
+
+실제로 같이 따라해볼 시나리오 -> 조금 수정되었으나 전반적인 맥락은 비슷
+https://github.com/Pentaho-User-Group-Korea/Pentaho-User-Group-Korea.github.io/wiki/회사-내-애로사항-및-개선점-응답-데이터-(from-직원-대상-익명-설문조사)-취합-및-처리하기
