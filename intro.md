@@ -86,22 +86,12 @@ title: Pentaho CE 소개 및 설치 과정 안내
 
 ##### 펜타호를 통한 숫자 데이터 필터링 Case
 
-![intro](/assets/img/intro.png)
+![intro10](/assets/img/intro10.png)
 
-![intro](/assets/img/intro.png)
+![intro11](/assets/img/intro11.png)
 
-![intro](/assets/img/intro.png)
-![intro](/assets/img/intro.png)
-
-![intro](/assets/img/intro.png)
-
-![intro](/assets/img/intro.png)
-
-![intro](/assets/img/intro.png)
-
-![intro](/assets/img/intro.png)
-
-![intro](/assets/img/intro.png)
+![intro12](/assets/img/intro12.png)
+![intro13](/assets/img/intro13.png)
 
 ### Pentaho CE 설치 매뉴얼
 #### 9.1버전 기준이며 해당 유투브 재생목록 영상들의 내용을 순서대로 따라하시면 됩니다.
