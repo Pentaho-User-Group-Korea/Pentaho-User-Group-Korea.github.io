@@ -50,6 +50,7 @@ title: Pentaho CE 소개 및 설치 과정 안내
 
 ### Pentaho CE - PDI 중심 구체적인 솔루션 소개
 #### 9.1버전 기준이며 펜타호의 기본 컨셉 및 간단한 데이터 처리 과정을 보여드리겠습니다.
+##### 펜타호의 기본 컨셉 설명
 
 ![intro4](/assets/img/intro4.png)
 
@@ -74,11 +75,16 @@ title: Pentaho CE 소개 및 설치 과정 안내
   * 이 때 데이터는 상단 이미지 우측 하단과 같은 형태의 작업 공간에 담겨 전달 및 처리됩니다.
   * 작업 공간은 필드(Field = 세로로 한 줄 - 엑셀의 열)와 로우(Row = 가로로 한 줄 - 엑셀의 행)로 구성되어 있습니다. 
   * 특정 필드나 특정 로우를 기준으로 데이터를 처리하게 됩니다.
-* 이런 개별 작업 단위들은 모듈 안에 배치되고 모듈을 통해 실행 됩니다.
+* 이런 개별 작업 단위들은 모듈 안에 배치되고 모듈을 통해 실행 됩니다. Pentaho의 작업 모듈은 크게 2가지로 나뉩니다.
+  * Transformation : 실질적인 데이터 조작을 수행하는 모듈
+  * Job : 데이터, 파일 및 전체적인 Workflow를 관리하는 모듈
 
-![intro](/assets/img/intro.png)
 
-![intro](/assets/img/intro.png)
+![intro8](/assets/img/intro8.png)
+
+![intro9](/assets/img/intro9.png)
+
+##### 펜타호를 통한 숫자 데이터 필터링 Case
 
 ![intro](/assets/img/intro.png)
 
