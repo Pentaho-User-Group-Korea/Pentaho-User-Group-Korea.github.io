@@ -48,6 +48,18 @@ title: Pentaho CE 소개 및 설치 과정 안내
 <br/>
 <br/>
 
+### Pentaho CE - PDI 중심 구체적인 솔루션 소개
+#### 9.1버전 기준이며 펜타호의 기본 컨셉 및 간단한 데이터 처리 과정을 보여드리겠습니다.
+
+![intro](/assets/img/intro.png)
+
+* ㅇㄴ
+  * ㅇㄴㅇㄴ
+* 
+
+
+![intro](/assets/img/intro.png)
+
 ### Pentaho CE 설치 매뉴얼
 #### 9.1버전 기준이며 해당 유투브 재생목록 영상들의 내용을 순서대로 따라하시면 됩니다.
 
