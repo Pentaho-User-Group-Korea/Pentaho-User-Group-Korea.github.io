@@ -51,12 +51,42 @@ title: Pentaho CE 소개 및 설치 과정 안내
 ### Pentaho CE - PDI 중심 구체적인 솔루션 소개
 #### 9.1버전 기준이며 펜타호의 기본 컨셉 및 간단한 데이터 처리 과정을 보여드리겠습니다.
 
+![intro4](/assets/img/intro4.png)
+
+* Pentaho는 데이터 처리 솔루션으로 다양한 기능을 제공하며 크게 기업용 버전과 커뮤니티용 버전으로 나뉩니다.
+* Pentaho의 기업용 버전인 Enterprise Edition은 정형 및 비정형 데이터에 대해 수집부터 변환, 적재, 분석, 그리고 시각화까지 일련의 과정을 모두 제공하는 원스탑 빅데이터 솔루션입니다. (이하 Pentaho EE)
+* 커뮤니티 버전인 Pentaho Community Edition (이하 Pentaho CE) 은 EE 버전에 비해 기능적인 제한이 있는 버전입니다.
+  * 그림 출처 : "빅데이터 통합 플랫폼 소개 Lumada 플랫폼" 문서 16페이지 - 효성인포메이션 시스템
+
+![intro5](/assets/img/intro5.png)
+![intro6](/assets/img/intro6.png)
+
+* Pentaho는 여러 애플리케이션으로 이뤄진 복합 솔루션이며 크게 클라이언트 애플리케이션과 서버 애플리케이션으로 나눌 수 있습니다.
+* 서버단과 클라이언트 단의 애플리케이션들의 기능을 활용하여 빅데이터 통합 및 처리부터 자동화 및 시각화까지 모두 처리가 가능합니다.
+* 대표적인 클라이언트 애플리케이션으로 PDI가 있고, 대표적인 서버 애플리케이션으로는 PBA가 있습니다.
+* PDI는 Pentaho Data Integration의 약자로 사용자의 PC에서 데이터를 처리할 수 있는 GUI 작업환경을 제공합니다.
+* PBA는 Pentaho Business Analytics의 약자로 서버에 게시된 파일을 호스팅하여 대시 보드 표시, 보고서 작성, OLAP 분석 등을 제공합니다.
+
 ![intro](/assets/img/intro.png)
 
-* ㅇㄴ
-  * ㅇㄴㅇㄴ
-* 
+![intro](/assets/img/intro.png)
 
+![intro](/assets/img/intro.png)
+
+![intro](/assets/img/intro.png)
+
+![intro](/assets/img/intro.png)
+
+![intro](/assets/img/intro.png)
+![intro](/assets/img/intro.png)
+
+![intro](/assets/img/intro.png)
+
+![intro](/assets/img/intro.png)
+
+![intro](/assets/img/intro.png)
+
+![intro](/assets/img/intro.png)
 
 ![intro](/assets/img/intro.png)
 
