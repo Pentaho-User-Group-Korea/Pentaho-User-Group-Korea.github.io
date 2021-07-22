@@ -93,6 +93,7 @@ title: Pentaho CE 소개 및 설치 과정 안내
 ![intro12](/assets/img/intro12.png)
 ![intro13](/assets/img/intro13.png)
 
+
 ### Pentaho CE 설치 매뉴얼
 #### 9.1버전 기준이며 해당 유투브 재생목록 영상들의 내용을 순서대로 따라하시면 됩니다.
 
