@@ -26,6 +26,7 @@ title: 커뮤니티 자료
 
 * [Pentaho CE 9.1 Download](https://sourceforge.net/projects/pentaho/files/Pentaho%209.1/)
 * [Pentaho CE 9.2 Download](https://sourceforge.net/projects/pentaho/files/Pentaho-9.2/)
+<br/>
 
 * 유용한 문서 및 저장소
   * Pentaho Coding Standards : <https://github.com/pentaho/pentaho-coding-standards>
@@ -51,7 +52,7 @@ title: 커뮤니티 자료
   * Metadata Injection : <http://kettle.bleuel.com/2016/04/14/pentaho-6-1-part-2/>
   * Metadata Injection – Examples for Special Scenarios : <http://kettle.bleuel.com/2017/02/16/metadata-injection-examples-for-special-scenarios/>
   * Pentaho Community Edition (CE) or Pentaho Enterprise Edition (EE) : <https://www.hitachivantara.com/en-us/pdf/datasheet/what-pentaho-edition-is-right-for-you-datasheet.pdf>
-  
+  * What's new in Pentaho 9.2 : <https://help.hitachivantara.com/Documentation/Pentaho/9.2/What's_new_in_Pentaho_9.2?fbclid=IwAR00AgEa6Ir3VJKw1PAraoBVijah6mfg8ogAmy2s07ydLyKiXld3NDEDSiw>
 <br/>
 <br/>
 
