@@ -25,6 +25,7 @@ title: 커뮤니티 자료
 * [Pentaho Project 홈페이지](https://www.hitachivantara.com/en-us/products/data-management-analytics/pentaho.html)
 
 * [Pentaho CE 9.1 Download](https://sourceforge.net/projects/pentaho/files/Pentaho%209.1/)
+* [Pentaho CE 9.2 Download](https://sourceforge.net/projects/pentaho/files/Pentaho-9.2/)
 
 * 유용한 문서 및 저장소
   * Pentaho Coding Standards : <https://github.com/pentaho/pentaho-coding-standards>
