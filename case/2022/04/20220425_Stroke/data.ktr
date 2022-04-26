@@ -1278,7 +1278,7 @@
     <fileNameField/>
     <create_parent_folder>Y</create_parent_folder>
     <file>
-      <name>${Internal.Entry.Current.Directory}/input/Stroke_data</name>
+      <name>${Internal.Entry.Current.Directory}/output/Stroke_data</name>
       <servlet_output>N</servlet_output>
       <do_not_open_new_file_init>N</do_not_open_new_file_init>
       <extention>csv</extention>

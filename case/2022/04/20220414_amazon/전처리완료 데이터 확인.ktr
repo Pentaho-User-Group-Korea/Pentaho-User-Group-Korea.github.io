@@ -1092,7 +1092,7 @@
       <method>none</method>
       <schema_name/>
     </partitioning>
-    <filename>C:/Users/OURCOMS/Desktop/flow_data/amazon_data.csv</filename>
+    <filename>${Internal.Entry.Current.Directory}/output/amazon_data.csv</filename>
     <filename_field/>
     <rownum_field/>
     <include_filename>N</include_filename>
@@ -1320,7 +1320,7 @@
       <method>none</method>
       <schema_name/>
     </partitioning>
-    <filename>C:/Users/OURCOMS/Desktop/flow_data/amazon_data.csv</filename>
+    <filename>${Internal.Entry.Current.Directory}/output/amazon_data.csv</filename>
     <filename_field/>
     <rownum_field/>
     <include_filename>N</include_filename>
@@ -1548,7 +1548,7 @@
       <method>none</method>
       <schema_name/>
     </partitioning>
-    <filename>C:/Users/OURCOMS/Desktop/flow_data/amazon_data.csv</filename>
+    <filename>${Internal.Entry.Current.Directory}/output/amazon_data.csv</filename>
     <filename_field/>
     <rownum_field/>
     <include_filename>N</include_filename>
@@ -1776,7 +1776,7 @@
       <method>none</method>
       <schema_name/>
     </partitioning>
-    <filename>C:/Users/OURCOMS/Desktop/flow_data/amazon_data.csv</filename>
+    <filename>${Internal.Entry.Current.Directory}/output/amazon_data.csv</filename>
     <filename_field/>
     <rownum_field/>
     <include_filename>N</include_filename>

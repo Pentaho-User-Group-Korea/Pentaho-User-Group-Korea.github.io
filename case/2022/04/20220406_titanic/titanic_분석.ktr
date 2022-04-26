@@ -2059,7 +2059,7 @@
     <accept_field/>
     <accept_stepname/>
     <file>
-      <name>${Internal.Entry.Current.Directory}\input\titanic_data.xls</name>
+      <name>${Internal.Entry.Current.Directory}\output\titanic_data.xls</name>
       <filemask/>
       <exclude_filemask/>
       <file_required>N</file_required>
