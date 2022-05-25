@@ -54,6 +54,7 @@ title: 커뮤니티 자료
   * Metadata Injection – Examples for Special Scenarios : <http://kettle.bleuel.com/2017/02/16/metadata-injection-examples-for-special-scenarios/>
   * Pentaho Community Edition (CE) or Pentaho Enterprise Edition (EE) : <https://www.hitachivantara.com/en-us/pdf/datasheet/what-pentaho-edition-is-right-for-you-datasheet.pdf>
   * What's new in Pentaho 9.2 : <https://help.hitachivantara.com/Documentation/Pentaho/9.2/What's_new_in_Pentaho_9.2?fbclid=IwAR00AgEa6Ir3VJKw1PAraoBVijah6mfg8ogAmy2s07ydLyKiXld3NDEDSiw>
+  * Pentaho Product Version End of Life Policy : <https://support.pentaho.com/hc/en-us/articles/205789159-Pentaho-Product-Version-End-of-Life-Policy?fbclid=IwAR3ey3llkf4AlLX7AUtWssVx5y9wzmUieVaPU9yFSoB5JBOhcBOGtjv94g4/> 
 <br/>
 <br/>
 
