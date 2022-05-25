@@ -85,7 +85,8 @@ title: 커뮤니티 자료
   <br/> 
   <br/>
 * Pentaho Data Intergration관련 책
-  * 추가 자료 수집 중
+  * [Learning Pentaho Data Integration 8 CE - Third Edition: An end-to-end guide to exploring, transforming, and integrating your data across multiple sources 3rd Revised edition](https://www.amazon.com/Learning-Pentaho-Data-Integration-end/dp/178829243X/)
+  * 
   
 <br/>
 <br/>
