@@ -6,8 +6,7 @@ title: 커뮤니티 자료
 ### Pentaho Data Intergration Community Edition 문서
 
 * Pentaho Data Intergration CE(ver. 9.0) 설치 문서
-  * [Windows](https://www.hitachivantara.com/en-us/pdf/white-paper/pentaho-community-edition-installation-guide-for-windows-whitepaper.pdf)
-  
+  * [Windows](https://www.hitachivantara.com/en-us/pdf/white-paper/pentaho-community-edition-installation-guide-for-windows-whitepaper.pdf)  
   * [Linux](https://www.hitachivantara.com/en-us/pdf/white-paper/pentaho-ce-installation-guide-on-linux-operating-system-whitepaper.pdf)  
 <br/>
 <br/>
@@ -20,10 +19,8 @@ title: 커뮤니티 자료
 
 ### Pentaho Data Intergration Community Edition 주요 링크
 
-* [Pentaho Community](https://community.hitachivantara.com/s/pentaho)
-  
+* [Pentaho Community](https://community.hitachivantara.com/s/pentaho)  
 * [Pentaho Project 홈페이지](https://www.hitachivantara.com/en-us/products/data-management-analytics/pentaho.html)
-
 * [Pentaho CE 9.1 Download](https://sourceforge.net/projects/pentaho/files/Pentaho%209.1/)
 * [Pentaho CE 9.2 Download](https://sourceforge.net/projects/pentaho/files/Pentaho-9.2/)
 * [Pentaho CE 9.3 Download](https://sourceforge.net/projects/pentaho/files/Pentaho-9.3/)
