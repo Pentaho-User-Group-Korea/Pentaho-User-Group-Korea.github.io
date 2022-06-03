@@ -56,6 +56,7 @@ title: 커뮤니티 자료
   * What's new in Pentaho 9.2 : <https://help.hitachivantara.com/Documentation/Pentaho/9.2/What's_new_in_Pentaho_9.2?fbclid=IwAR00AgEa6Ir3VJKw1PAraoBVijah6mfg8ogAmy2s07ydLyKiXld3NDEDSiw>
   * What's new in Pentaho 9.3 : <https://help.hitachivantara.com/Documentation/Pentaho/9.3/What's_new_in_Pentaho_9.3>
   * Pentaho Product Version End of Life Policy : <https://support.pentaho.com/hc/en-us/articles/205789159-Pentaho-Product-Version-End-of-Life-Policy?fbclid=IwAR3ey3llkf4AlLX7AUtWssVx5y9wzmUieVaPU9yFSoB5JBOhcBOGtjv94g4/> 
+  * Components Reference : <https://help.hitachivantara.com/Documentation/Pentaho/9.3/Setup/Components_Reference>
 <br/>
 <br/>
 
