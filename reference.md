@@ -10,13 +10,10 @@ title: 커뮤니티 자료
   * [Linux](https://www.hitachivantara.com/en-us/pdf/white-paper/pentaho-ce-installation-guide-on-linux-operating-system-whitepaper.pdf)  
 <br/>
 <br/>
-
 ### Pentaho Data Intergration Community Edition 동영상
 * [Pentaho Data Intergration CE(ver. 9.1) 설치 동영상](https://www.youtube.com/watch?v=ObM4K691Erk&t=60s)
 <br/>
 <br/>
-
-
 ### Pentaho Data Intergration Community Edition 주요 링크
 
 * [Pentaho Community](https://community.hitachivantara.com/s/pentaho)  
@@ -90,7 +87,6 @@ title: 커뮤니티 자료
   
 <br/>
 <br/>
-
 * Pentaho관련 주요 Plugin 리스트
  
   * Ctools Suite : 가장 유명한 CDE (plugin for dashboards creation), CDF (dashboard framework), CDA (for data connection), 
