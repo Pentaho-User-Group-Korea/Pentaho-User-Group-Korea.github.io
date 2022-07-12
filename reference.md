@@ -6,8 +6,7 @@ title: 커뮤니티 자료
 ### Pentaho Data Intergration Community Edition 문서
 
 * Pentaho Data Intergration CE(ver. 9.0) 설치 문서
-  * [Windows](https://www.hitachivantara.com/en-us/pdf/white-paper/pentaho-community-edition-installation-guide-for-windows-whitepaper.pdf)
-  
+  * [Windows](https://www.hitachivantara.com/en-us/pdf/white-paper/pentaho-community-edition-installation-guide-for-windows-whitepaper.pdf)  
   * [Linux](https://www.hitachivantara.com/en-us/pdf/white-paper/pentaho-ce-installation-guide-on-linux-operating-system-whitepaper.pdf)  
 <br/>
 <br/>
@@ -17,15 +16,13 @@ title: 커뮤니티 자료
 <br/>
 <br/>
 
-
 ### Pentaho Data Intergration Community Edition 주요 링크
 
-* [Pentaho Community](https://community.hitachivantara.com/s/pentaho)
-  
+* [Pentaho Community](https://community.hitachivantara.com/s/pentaho)  
 * [Pentaho Project 홈페이지](https://www.hitachivantara.com/en-us/products/data-management-analytics/pentaho.html)
-
 * [Pentaho CE 9.1 Download](https://sourceforge.net/projects/pentaho/files/Pentaho%209.1/)
 * [Pentaho CE 9.2 Download](https://sourceforge.net/projects/pentaho/files/Pentaho-9.2/)
+* [Pentaho CE 9.3 Download](https://sourceforge.net/projects/pentaho/files/Pentaho-9.3/)
 <br/>
 
 * 유용한 문서 및 저장소
@@ -51,8 +48,11 @@ title: 커뮤니티 자료
   * ETL Metadata Injection : <https://help.pentaho.com/Documentation/7.0/0L0/0Y0/0K0/ETL_Metadata_Injection>
   * Metadata Injection : <http://kettle.bleuel.com/2016/04/14/pentaho-6-1-part-2/>
   * Metadata Injection – Examples for Special Scenarios : <http://kettle.bleuel.com/2017/02/16/metadata-injection-examples-for-special-scenarios/>
-  * Pentaho Community Edition (CE) or Pentaho Enterprise Edition (EE) : <https://www.hitachivantara.com/en-us/pdf/datasheet/what-pentaho-edition-is-right-for-you-datasheet.pdf>
+  * A Community Edition to Enterprise Edition Infographic : <https://www.hitachivantara.com/en-us/pdf/infographic/proprietary-versus-open-source-software-infographic.pdf>  
   * What's new in Pentaho 9.2 : <https://help.hitachivantara.com/Documentation/Pentaho/9.2/What's_new_in_Pentaho_9.2?fbclid=IwAR00AgEa6Ir3VJKw1PAraoBVijah6mfg8ogAmy2s07ydLyKiXld3NDEDSiw>
+  * What's new in Pentaho 9.3 : <https://help.hitachivantara.com/Documentation/Pentaho/9.3/What's_new_in_Pentaho_9.3>
+  * Pentaho Product Version End of Life Policy : <https://support.pentaho.com/hc/en-us/articles/205789159-Pentaho-Product-Version-End-of-Life-Policy?fbclid=IwAR3ey3llkf4AlLX7AUtWssVx5y9wzmUieVaPU9yFSoB5JBOhcBOGtjv94g4/> 
+  * Components Reference : <https://help.hitachivantara.com/Documentation/Pentaho/9.3/Setup/Components_Reference>
 <br/>
 <br/>
 
@@ -84,11 +84,11 @@ title: 커뮤니티 자료
   <br/> 
   <br/>
 * Pentaho Data Intergration관련 책
-  * 추가 자료 수집 중
+  * [Learning Pentaho Data Integration 8 CE - Third Edition: An end-to-end guide to exploring, transforming, and integrating your data across multiple sources 3rd Revised edition (2018.06)](https://www.amazon.com/Learning-Pentaho-Data-Integration-end/dp/178829243X/)
+  * [Pentaho Data Integration Quick Start Guide: Create ETL processes using Pentaho (2018.08)](https://www.amazon.com/Pentaho-Integration-Quick-Start-Guide/dp/1789343321/)
   
 <br/>
 <br/>
-
 * Pentaho관련 주요 Plugin 리스트
  
   * Ctools Suite : 가장 유명한 CDE (plugin for dashboards creation), CDF (dashboard framework), CDA (for data connection), 
