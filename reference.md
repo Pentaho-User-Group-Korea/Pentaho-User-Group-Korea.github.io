@@ -86,14 +86,12 @@ title: 커뮤니티 자료
 * Pentaho Data Intergration관련 책
   * [Learning Pentaho Data Integration 8 CE - Third Edition: An end-to-end guide to exploring, transforming, and integrating your data across multiple sources 3rd Revised edition (2018.06)](https://www.amazon.com/Learning-Pentaho-Data-Integration-end/dp/178829243X/)
   * [Pentaho Data Integration Quick Start Guide: Create ETL processes using Pentaho (2018.08)](https://www.amazon.com/Pentaho-Integration-Quick-Start-Guide/dp/1789343321/)
-  <br/>
+   <br/>  
 * Pentaho Data Intergration관련 무료 책
-  <br/>
  * [Pentaho Data Integration Beginner's Guide, Second Edition (2013.10)](https://github.com/happyapple668/gavin-repo/blob/master/books/BI/Kettle/Pentaho%20Data%20Integration%20Beginner's%20Guide%2C%20Second%20Edition.pdf?fbclid=IwAR1zP9-fQ_4Qp8jvlXg00KQDnv7reLwdoi1DzHcQWAd7e11X66_4HTOLORY/)  
-  <br/>  
  * [Pentaho Data Integration Cookbook Second Edition (2013.11)](https://vdoc.pub/download/pentaho-data-integration-cookbook-second-edition-6hffm1n6m4e0?fbclid=IwAR2w6SCadVllFOSZUvfRPST-0URKpl7LKuG6ruiErwoohH1v5Z-bECz8CtU)  
-<br/>
-<br/>
+   <br/>
+   <br/>
 * Pentaho관련 주요 Plugin 리스트
  
   * Ctools Suite : 가장 유명한 CDE (plugin for dashboards creation), CDF (dashboard framework), CDA (for data connection), 
