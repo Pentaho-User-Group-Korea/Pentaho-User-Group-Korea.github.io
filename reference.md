@@ -89,9 +89,9 @@ title: 커뮤니티 자료
 <br/>
 <br/>
 * Pentaho Data Intergration관련 무료 책
-  * [Pentaho Data Integration Beginner's Guide, Second Edition (2013.10)](https://github.com/happyapple668/gavin-repo/blob/master/books/BI/Kettle/Pentaho%20Data%20Integration%20Beginner's%20Guide%2C%20Second%20Edition.pdf?fbclid=IwAR1zP9-fQ_4Qp8jvlXg00KQDnv7reLwdoi1DzHcQWAd7e11X66_4HTOLORY)
+  * [Pentaho Data Integration Beginner's Guide, Second Edition (2013.10)](https://github.com/happyapple668/gavin-repo/blob/master/books/BI/Kettle/Pentaho%20Data%20Integration%20Beginner's%20Guide%2C%20Second%20Edition.pdf?fbclid=IwAR1zP9-fQ_4Qp8jvlXg00KQDnv7reLwdoi1DzHcQWAd7e11X66_4HTOLORY/)
 <br/>  
-  * [Download Pentaho Data Integration Cookbook Second Edition (2013.11)](https://vdoc.pub/download/pentaho-data-integration-cookbook-second-edition-6hffm1n6m4e0?fbclid=IwAR2w6SCadVllFOSZUvfRPST-0URKpl7LKuG6ruiErwoohH1v5Z-bECz8CtU) 
+  * [Download Pentaho Data Integration Cookbook Second Edition (2013.11)](https://vdoc.pub/download/pentaho-data-integration-cookbook-second-edition-6hffm1n6m4e0?fbclid=IwAR2w6SCadVllFOSZUvfRPST-0URKpl7LKuG6ruiErwoohH1v5Z-bECz8CtU)  
 <br/>
 <br/>
 * Pentaho관련 주요 Plugin 리스트
