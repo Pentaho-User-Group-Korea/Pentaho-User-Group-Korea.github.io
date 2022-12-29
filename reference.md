@@ -86,6 +86,7 @@ title: 커뮤니티 자료
 * Pentaho Data Intergration관련 책
   * [Learning Pentaho Data Integration 8 CE - Third Edition: An end-to-end guide to exploring, transforming, and integrating your data across multiple sources 3rd Revised edition (2018.06)](https://www.amazon.com/Learning-Pentaho-Data-Integration-end/dp/178829243X/)
   * [Pentaho Data Integration Quick Start Guide: Create ETL processes using Pentaho (2018.08)](https://www.amazon.com/Pentaho-Integration-Quick-Start-Guide/dp/1789343321/)
+  * [Essential Pentaho ETL: A self-study reference and practice book for ETL beginners (2020.12)](https://www.amazon.com/Essential-Pentaho-ETL-self-study-reference-ebook/dp/B08RB8X4Y7/ref=sr_1_8?crid=1Q8WWSV63M3RV&keywords=pentaho&qid=1672276457&s=books&sprefix=pentho%2Cstripbooks-intl-ship%2C240&sr=1-8)
    <br/>  
 * Pentaho Data Intergration관련 무료 책
  * [Pentaho Data Integration Beginner's Guide, Second Edition (2013.10)](https://github.com/happyapple668/gavin-repo/blob/master/books/BI/Kettle/Pentaho%20Data%20Integration%20Beginner's%20Guide%2C%20Second%20Edition.pdf?fbclid=IwAR1zP9-fQ_4Qp8jvlXg00KQDnv7reLwdoi1DzHcQWAd7e11X66_4HTOLORY/)  
