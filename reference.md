@@ -23,6 +23,7 @@ title: 커뮤니티 자료
 * [Pentaho CE 9.1 Download](https://sourceforge.net/projects/pentaho/files/Pentaho%209.1/)
 * [Pentaho CE 9.2 Download](https://sourceforge.net/projects/pentaho/files/Pentaho-9.2/)
 * [Pentaho CE 9.3 Download](https://sourceforge.net/projects/pentaho/files/Pentaho-9.3/)
+* [Pentaho CE 9.4 Download](https://www.hitachivantara.com/en-us/products/dataops-software/data-integration-analytics/pentaho-community-edition.html)
 <br/>
 
 * 유용한 문서 및 저장소
